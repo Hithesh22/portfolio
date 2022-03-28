@@ -1,0 +1,28 @@
+body {
+    background-image: url("background.jpg");
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+body {
+   
+     display: flex; 
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+a {
+    
+     margin-left: 100px; 
+    color: lightgreen;
+}
+.attract {
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+
+}
